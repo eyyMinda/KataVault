@@ -1,4 +1,4 @@
-import { getPINs } from './index';
+import { getPINs } from './observed-pin';
 
 const expectations: Record<string, string[]> = {
   '8': ['5', '7', '8', '9', '0'],

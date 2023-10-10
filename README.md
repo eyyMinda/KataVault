@@ -10,23 +10,19 @@
 | :-: | :-: |
 |1|0|
 |2|0|
-|3|1|
-|4|2|
-|5|11|
+|3|0|
+|4|1|
+|5|0|
 |6|36|
-|7|33|
-|8|29|
-|All|112|
+|7|0|
+|8|0|
+|All|37|
 
 ```mermaid
 pie showData
     title Katas per Kyu (0 omitted)
-	"Kyu 3": 1
-	"Kyu 4": 2
-	"Kyu 5": 11
+	"Kyu 4": 1
 	"Kyu 6": 36
-	"Kyu 7": 33
-	"Kyu 8": 29
 ```
 
 This is my monorepo housing my solutions for the katas presented at [Codewars](https://www.codewars.com/). Below follows a succinct summary of the motivation for said repository as well as the goal aspired in solving these problems.
