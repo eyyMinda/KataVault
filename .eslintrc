@@ -1,0 +1,26 @@
+{
+  "root": true,
+  "env": {
+    "jest": true
+  },
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+    "requireConfigFile": false
+  },
+  "extends": ["eslint:recommended", "prettier"],
+  "overrides": [
+    {
+      "files": ["**/*.ts"],
+      "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended"
+      ],
+      "parser": "@typescript-eslint/parser",
+      "plugins": ["@typescript-eslint", "prettier"],
+      "rules": {
+        "no-constant-condition": "off"
+      }
+    }
+  ]
+}
