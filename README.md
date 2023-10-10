@@ -13,16 +13,16 @@
 |3|0|
 |4|1|
 |5|0|
-|6|2|
+|6|4|
 |7|0|
 |8|0|
-|All|3|
+|All|5|
 
 ```mermaid
 pie showData
     title Katas per Kyu (0 omitted)
 	"Kyu 4": 1
-	"Kyu 6": 2
+	"Kyu 6": 4
 ```
 
 This is my monorepo housing my solutions for the katas presented at [Codewars](https://www.codewars.com/). Below follows a succinct summary of the motivation for said repository as well as the goal aspired in solving these problems.
