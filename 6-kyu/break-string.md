@@ -1,4 +1,4 @@
-## $${\color{orange}6kyu String \space Breaker}$$ 
+$${\color{orange}6kyu String \space Breaker}$$ 
 
 I will give you an integer (N) and a string. Break the string up into as many substrings of N as you can without spaces. If there are leftover characters, include those as well.
 
