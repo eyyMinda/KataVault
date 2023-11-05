@@ -7,6 +7,7 @@
     "test": "npx jest",
     "test:watch": "npx jest --watch",
     "update:readme": "ts-node update-readme.ts run",
+    "create": "ts-node create.ts --sum-nums",
     "lint": "eslint . --ext .ts,.js"
   },
   "repository": {
