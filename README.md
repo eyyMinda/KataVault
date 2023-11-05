@@ -36,6 +36,7 @@ Scripts
 npm run test
 npm run test:watch
 npm run update:readme
+npm run create <file-name> <kyu-level>
 npm run lint
 ```
 
