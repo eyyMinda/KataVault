@@ -2,7 +2,8 @@
 
 [![CI](https://github.com/eyyMinda/KataVault/actions/workflows/ci.yml/badge.svg)](https://github.com/eyyMinda/KataVault/actions/workflows/ci.yml)
 [![Linter](https://github.com/eyyMinda/KataVault/actions/workflows/linter.yml/badge.svg)](https://github.com/eyyMinda/KataVault/actions/workflows/linter.yml)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
+[![wakatime](https://wakatime.com/badge/user/7217dc82-1bcf-4a0a-8b7f-96e2332f4c45/project/018b1b53-53d0-45f2-a56a-acb4de57e7b9.svg)](https://wakatime.com/badge/user/7217dc82-1bcf-4a0a-8b7f-96e2332f4c45/project/018b1b53-53d0-45f2-a56a-acb4de57e7b9)
 
 ![](https://www.codewars.com/users/eyyMinda/badges/large)
 
